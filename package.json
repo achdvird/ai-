@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "ollama": "ollama run llama3:70b"
+    }
+  }
